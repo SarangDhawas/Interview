@@ -5,10 +5,11 @@ public class Main {
         int a=10;
         int b=20;
 
-
+//sarang dhawass
         a=a+b;
         b=a-b;
         a=a-b;
+
         System.out.print( a);
         System.out.print(b);
     }
